@@ -1,0 +1,8 @@
+﻿  一筆書きゲーム.cpp
+C:\Users\student\Desktop\個人製作\Dxlib_h\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\個人製作\Projects\一筆書きゲーム\一筆書きゲーム.cpp(224,23): warning C4552: '+': 式の結果が使用されていません
+F:\個人製作\Projects\一筆書きゲーム\一筆書きゲーム.cpp(234,23): warning C4552: '+': 式の結果が使用されていません
+F:\個人製作\Projects\一筆書きゲーム\一筆書きゲーム.cpp(244,23): warning C4552: '+': 式の結果が使用されていません
+F:\個人製作\Projects\一筆書きゲーム\一筆書きゲーム.cpp(254,23): warning C4552: '+': 式の結果が使用されていません
+F:\個人製作\Projects\一筆書きゲーム\一筆書きゲーム.cpp(324,20): warning C4101: 'onegame': ローカル変数は 1 度も使われていません。
+  Project1.vcxproj -> F:\個人製作\Projects\一筆書きゲーム\x64\Debug\Project1.exe

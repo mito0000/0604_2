@@ -1,0 +1,5 @@
+D:\DxLib2DGames\Projects\Project1\x64\Debug\Project1.exe
+D:\個人製作\Projects\ゲーム\x64\Debug\Project1.exe
+F:\個人製作\Projects\ゲーム\x64\Debug\Project1.exe
+C:\Users\student\Desktop\個人製作\Projects\ゲーム\x64\Debug\Project1.exe
+F:\個人製作\Projects\一筆書きゲーム\x64\Debug\Project1.exe
